@@ -1,4 +1,4 @@
-# SimpleGulpApp
+
 <h1>Simple Gulp JS starter for Begineers</h1>
 			<h3>Run Applications</h3>
 <pre><code>npm install</code>
