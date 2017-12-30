@@ -1,0 +1,25 @@
+{
+  "name": "bower for gulp",
+  "description": "Bower with gulpjs",
+  "main": "index.js",
+  "authors": [
+    "Subrahmanyam Poluru"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "bower json",
+    "UI",
+    "Gulp bower"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "gulpbegineers",
+  "version": "1.0.0",
+  "description": "webapp node, node demo",
+  "main": "index.html",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.4.1",
+    "gulp-sass": "^2.3.2"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "gulpjs for begineers",
+    "simple gulpjs for UI",
+    "frontend Gulpjs",
+    "Simple Gulp"
+  ],
+  "author": "Subrahmanyam Poluru",
+  "license": "ISC"
+}
